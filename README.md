@@ -5,6 +5,7 @@ Interactive graphical application for modeling S-shaped two-dimensional curves. 
 This project contains both source code and executable file
 
 S-curveModelingTool.py
+
 S-curveModelingTool.exe
 
 Due to the memory limit the executable file is stored in my OSF page: https://osf.io/swr7d/overview
