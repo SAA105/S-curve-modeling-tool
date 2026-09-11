@@ -3,6 +3,7 @@ Interactive graphical application for modeling S-shaped two-dimensional curves. 
 
 ## Files
 This project contains both source code and executable file
+
 S-curveModelingTool.py
 S-curveModelingTool.exe
 
